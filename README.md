@@ -34,4 +34,4 @@ This project is licensed under the [MIT License](LICENSE).
 - Data source: [Kaggle](https://www.kaggle.com)
 
 ## References
-- [Reference 1]([(https://scikit-learn.org/stable/)https://scikit-learn.org/stable/])
+- [Reference 1]((https://scikit-learn.org/stable/)https://scikit-learn.org/stable/)
