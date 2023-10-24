@@ -28,7 +28,7 @@ We will use the following classification models:
 - Random Forest Classification
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL License](LICENSE).
 
 ## Acknowledgments
 - Data source: [Kaggle](https://www.kaggle.com)
